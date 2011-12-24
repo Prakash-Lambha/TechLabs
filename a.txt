@@ -1,8 +1,0 @@
-function f1()
-{
-a=abc;
-<<<<<<< HEAD
-b=cde;
-=======
->>>>>>> removals
-}
